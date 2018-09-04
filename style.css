@@ -11,6 +11,7 @@ $color5: rgba(56, 119, 128, 1); ming
 /* import css file*/
 @import url("components/card.css");
 @import url("components/banner.css");
+@import url("components/mission.css");
 
 body{
 	background: white;
