@@ -9,5 +9,13 @@ $color5: rgba(56, 119, 128, 1); ming
 */
 
 /* import css file*/
-/*@import url("components/navbar.css");*/
+@import url("components/card.css");
 @import url("components/banner.css");
+@import url("components/mission.css");
+
+body{
+	background: white;
+	color: rgba(117, 119, 128, 1);
+	font-family: Helvetica;
+	margin: 0px;
+}

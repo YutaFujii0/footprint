@@ -1,0 +1,16 @@
+#mission {
+	background-color: rgba(117, 119, 128, 1);
+	margin: 0px;
+	padding: 10px;
+	color: white;
+
+}
+#mission h1{
+	background-color: rgba(117, 119, 128, 1);
+	color: white;
+	font-size: 20px;
+}
+#mission p{
+	color: white;
+	font-size: 12px;
+}
