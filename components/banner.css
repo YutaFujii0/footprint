@@ -1,0 +1,7 @@
+#banner {
+	background-image: linear-gradient(rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.2) 0%), url("../images/fes.jpg");
+	background-size: cover;
+	padding: 80px 0;
+	text-align: center;
+	color: white;
+}
