@@ -1,0 +1,23 @@
+.card {
+	border-color: white;
+	padding: 20px
+
+}
+.card h1{
+	color: rgba(224, 96, 126, 1);
+	font-family: helvetica;
+	font-size: 32px;
+	text-align: center;
+}
+.card h2{
+	color: rgba(224, 96, 126, 1);
+	font-family: helvetica;
+	font-size: 20px;
+	text-align: center;
+}
+.card p{
+	color: rgba(117, 119, 128, 1);
+	font-family: helvetica;
+	font-size: 12px;
+	text-align: center;
+}
