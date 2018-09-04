@@ -1,0 +1,13 @@
+
+/* RGB */
+/*
+$color1: rgba(117, 119, 128, 1); sonic silver
+$color2: rgba(224, 96, 126, 1); blush
+$color3: rgba(210, 204, 161, 1); dark vanilla
+$color4: rgba(126, 232, 250, 1); electric blue
+$color5: rgba(56, 119, 128, 1); ming
+*/
+
+/* import css file*/
+/*@import url("components/navbar.css");*/
+@import url("components/banner.css");
